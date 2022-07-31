@@ -11,6 +11,8 @@
 - Big-o gösterimi: 
 - merge-sort diziyi tek eleman kalana kadar böler ve tekrar birleştirir. işlemin süresini kısaltır.
 - o(nlogn)
+- # Patika.Dev
+www.patika.dev
 
 
 
