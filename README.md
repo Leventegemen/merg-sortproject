@@ -1,4 +1,4 @@
-# merg-sortproject
+## merg-sortproject
 # diziyi sort türüne göre aşamalandırın
 [16,21,11,8,12,22] ==> merge-sort 
 - önce diziyi ikiye bölücez: [16,21,11] [8,12,21]
